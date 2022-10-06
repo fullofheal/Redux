@@ -29,30 +29,41 @@
       "name": "Mykhailo Zelenskyi",
       "description": "Play Dota 2.",
       "element": "earth"
+    },
+    {
+      "id": "3cf0df03-3bea-40a8-98a7-193b396bc875",
+      "name": "Mykhailo Zelenskyi",
+      "description": "gfhfgh",
+      "element": "water"
     }
   ],
   "filters": [
     {
+      "id": "all",
       "name": "all",
       "label": "Все",
       "className": "btn-outline-dark"
     },
     {
+      "id": "fire",
       "name": "fire",
       "label": "Огонь",
       "className": "btn-danger"
     },
     {
+      "id": "water",
       "name": "water",
       "label": "Вода",
       "className": "btn-primary"
     },
     {
+      "id": "wind",
       "name": "wind",
       "label": "Ветер",
       "className": "btn-success"
     },
     {
+      "id": "earth",
       "name": "earth",
       "label": "Земля",
       "className": "btn-secondary"
